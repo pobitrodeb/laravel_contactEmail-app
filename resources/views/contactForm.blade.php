@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Laravel Contact US Form Example - ItSolutionStuff.com</title>
+    <title>pobitrodeb.com</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,7 +13,7 @@
             <div class="col-10 offset-1 mt-5">
                 <div class="card">
                     <div class="card-header bg-primary">
-                        <h3 class="text-white">Laravel Contact US Form Example - ItSolutionStuff.com</h3>
+                        <h3 class="text-white">Laravel Contact US Form Example -pobitrodeb.com </h3>
                     </div>
                     <div class="card-body">
 
