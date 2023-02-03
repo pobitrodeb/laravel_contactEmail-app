@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Contact;
+use App\Models\ContactMail;
 class ContactController extends Controller
 {
     public function index()
@@ -16,7 +17,7 @@ class ContactController extends Controller
         $request->validate([
             'name' => 'required',
             'email' => 'required|email',
-            'phone' => 'required|digits:10|numeric',
+            'phone' => 'required|digits:11|numeric',
             'subject' => 'required',
             'message' => 'required'
         ]);
